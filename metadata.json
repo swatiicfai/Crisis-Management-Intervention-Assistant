@@ -1,0 +1,6 @@
+{
+  "name": "Crisis Command & Triage HUD",
+  "description": "Mission-critical real-time crisis command, incident triage, contingency failover, and stakeholder comms HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
